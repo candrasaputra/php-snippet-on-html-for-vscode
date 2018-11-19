@@ -47,6 +47,15 @@
 		],
 		"description": "Insert if else statement."
 	},
+	"For statement": {
+		"prefix": "for",
+		"body": [
+			"<?php for ($$i=0; $$i < ; $$i++) : ?>".
+			"",
+			"<?php endfor ?>"
+		],
+		"description": "Insert foreach statement."
+	},
 	"Foreach statement": {
 		"prefix": "foreach",
 		"body": [
